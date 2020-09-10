@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="shome_lib"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shome_lib">
+				<Option output="/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/shome_lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 shome_lib"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shome_lib/fast">
+				<Option output="/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/shome_lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 shome_lib/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hwp/work/mySource/temp/smarthome/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/comm/comm.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/comm/log.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/comm/log.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/comm/str_comm.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/comm/str_comm.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/comm/syslog.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/comm/syslog.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/comm/udppropkt.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/data_list/gw_list.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/data_list/gw_list.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/data_list/gw_node.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/data_list/gw_node.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/data_list/snPkt.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/data_list/snPkt.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/global.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/global.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/extract_data.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/extract_data.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/format_bin_to_json.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/format_bin_to_json.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/format_json_to_bin.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/format_json_to_bin.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/to_gwclient.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/to_gwclient.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/to_uiclient.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/incharge/to_uiclient.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/json/cJSON.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/json/cJSON.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/json/s2j.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/json/s2j.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/json/s2jdef.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/pthread/locker.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/pthread/locker_pthread.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/pthread/locker_pthread.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/pthread/pthread_pool.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/pthread/pthread_pool.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/time_task/timer.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/time_task/timer.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/udp/network.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/udp/network.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/udp/udp.c">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/udp/udp.h">
+			<Option target="shome_lib"/>
+		</Unit>
+		<Unit filename="/Users/hwp/work/mySource/temp/smarthome/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

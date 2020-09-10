@@ -1,0 +1,12 @@
+comm/str_comm.c:71:14: error: unknown type name ‘u_int16_t’
+ int itoa_bin(u_int16_t data, char *str)
+              ^
+comm/str_comm.c: In function ‘substring’:
+comm/str_comm.c:109:10: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  if(start>strlen(src))return;
+          ^
+comm/str_comm.c:110:8: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  if(end>strlen(src))
+        ^
+make[1]: *** [build/release/comm/str_comm.o] Error 1
+make: *** [release] Error 2
